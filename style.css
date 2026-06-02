@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#about {
+    scroll-margin-top: 80px; /* Adjust to your navbar height */
+}
+#skills
+{ 
+scroll-margin-top:80px;
+}
+#projects
+{
+  scroll-margin-top:80px;
+}
+#contact
+{
+  scroll-margin-top:80px;
+  }
+}
